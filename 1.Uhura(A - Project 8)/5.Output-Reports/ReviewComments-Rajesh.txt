@@ -1,0 +1,21 @@
+==========================================
+Date of Review: 2018/10/10
+==========================================
+
+Sarthak:
+1) Good report, thank you for your study in ES. I think, by now, you must have got a good overview of ES already.
+2) As discussed in call, please try to finalize a Responsive+JS+Backend framework for the Uhura project, for creating the functional web app.
+	a) You can consider from Bootstrap/SemantiUI/Materialize for responsive
+	b) You can consider AngularJS or ExpressJS etc for front-end
+	c) You can consider NodeJS or Python/Django or SpringMVC/Java etc
+
+3) Please try to think on the web-page design schematics also and please share if you have any designs thought of.
+
+Jagriti:
+1) Good, thank you for the report.
+2) Please think on the design of the website, various layers to use, various interfaces (such as how to query data from ES, how to query data from NodeJS etc)
+3) I discussed with Sarthak today, please try to finalize a Responsive+JS+Backend framework for the Uhura project, for creating the functional web app.
+	a) You can consider from Bootstrap/SemantiUI/Materialize for responsive
+	b) You can consider AngularJS or ExpressJS etc for front-end
+	c) You can consider NodeJS or Python/Django or SpringMVC/Java etc
+4) Happy birthday to you Jagriti! Stay Blessed!
