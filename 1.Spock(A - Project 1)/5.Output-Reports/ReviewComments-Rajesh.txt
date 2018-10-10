@@ -1,0 +1,22 @@
+==========================================
+Date of Review: 2018/10/10
+==========================================
+
+Nikhil:
+1) Using old study output template, please use the latest version
+2) It's good that you have mentioned about Logstash and Kibana, please install and try to do hands-on them.
+3) Please add-up study report with all those topics that you have studied until now, i found only one row in it
+4) Please try to install ES on your PC.
+5) Please read more about indexing and search optimizations
+6) Please try to find out how to import PDF documents, how to make a automated pipeline batch which enumerates and takes PDFs from a folder and imports it into ES
+
+Somya:
+1) Good report, please include more topics if you have studied them.
+2) You have given information on Python ES client and mentioned way to install, please start doing hands on it.
+3) Please try to install ES on your PC.
+4) Please read more about indexing and search optimizations
+5) Please try to find out how to import PDF documents, how to make a automated pipeline batch which enumerates and takes PDFs from a folder and imports it into ES
+
+Sayem:
+1) Please add more study output as you have mentioned only one topic.
+2) If you have done any hands on activity of Elasticsearch or associated technologies, then also please mention it in the study output report.
