@@ -19,3 +19,6 @@ Jagriti:
 	b) You can consider AngularJS or ExpressJS etc for front-end
 	c) You can consider NodeJS or Python/Django or SpringMVC/Java etc
 4) Happy birthday to you Jagriti! Stay Blessed!
+
+Ashish:
+1) I am still waiting for your study output report.
