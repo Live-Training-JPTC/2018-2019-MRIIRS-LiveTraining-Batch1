@@ -1,0 +1,11 @@
+﻿1. Create a folder C:\tmp\jp
+2. Download all the unprotected PDFs to this folder
+3. Download FSCrawler-2.3 from GitHub to the above tmp folder
+4. Open cmd and set directory as C:\tmp\fscrawler-2.3\bin
+5. Run the command as> fscrawler --config_dir ./jp catalogs 
+6. After running type y 
+7. Now go to "bin\jp\catalogs\_settings" and change the URL as "C:\\tmp\\jp"
+7. Now again run the command as> fscrawler --config_dir ./jp catalogs --loop 1
+8. Your files are indexed now, use the attached python source code to run Elasticsearch and test the queries.
+
+
